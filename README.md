@@ -3,20 +3,20 @@ Spiking neural networks are a class of neural network models referred to as the 
 
 ### Spiking Neuron Models
 This project uses the following neuron models to build networks of spiking neurons:
- -- Fitzhugh-Nagumo (1961)
- -- Leaky integrate-and-fire (1965)
- -- Quadratic integrate-and-fire (1986)
- -- Izhikevich model (2003)
+  - Fitzhugh-Nagumo (1961)
+  - Leaky integrate-and-fire (1965)
+  - Quadratic integrate-and-fire (1986)
+  - Izhikevich model (2003)
 
 ### Learning Methods
 The following are the learning methods used in this project to train neural networks on various tasks:
- -- Supervised Learning
- -- Unsupervised Learning
- -- Reinforcement Learning
- -- STDP Learning Rule
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
+  - STDP Learning Rule
 
 ### Applications
 Spiking neural networks have been used in many different areas of information processing, and neural coding. In this project the spiking neural networks are applied to the following applications:
- -- Handwritten Digit recognition
- -- Image Recognition
- -- Motor control
+  - Handwritten Digit recognition
+  - Image Recognition
+  - Motor control
